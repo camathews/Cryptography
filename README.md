@@ -22,6 +22,6 @@
  The mod_exp.py calculates x^e mod n via modular exponentiation, aka the square and multiply algorithm.
 
  The program accepts three arguments as input:
- \tx - the base number being raised to a power
- \te - a non-negative integer for the exponent
- \tn - a positive integer modulus
+    x - the base number being raised to a power
+    e - a non-negative integer for the exponent
+    n - a positive integer modulus
